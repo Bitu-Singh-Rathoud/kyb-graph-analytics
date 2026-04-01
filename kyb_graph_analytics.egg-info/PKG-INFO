@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: kyb-graph-analytics
+Version: 0.1.0
+Summary: Graph-based fraud detection for KYB/AML: shell company and hidden ownership detection
+Requires-Python: >=3.8
