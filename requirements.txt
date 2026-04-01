@@ -1,0 +1,4 @@
+networkx>=3.0
+python-louvain>=0.16
+numpy>=1.24
+scipy>=1.10  # required by networkx>=3.0 for pagerank computation
